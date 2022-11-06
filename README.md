@@ -18,4 +18,4 @@
 
   
 
-![photo_2022-11-06_17-18-33](C:\Users\rahim\Desktop\.NET\img\photo_2022-11-06_17-18-33.jpg)
+![photo_2022-11-06_17-18-33](img\photo_2022-11-06_17-18-33.jpg)
