@@ -1,0 +1,11 @@
+C:\Users\rahim\source\repos\Loader\bin\Release\Loader.exe.config
+C:\Users\rahim\source\repos\Loader\bin\Release\Loader.exe
+C:\Users\rahim\source\repos\Loader\bin\Release\Loader.pdb
+C:\Users\rahim\source\repos\Loader\obj\Release\Loader.csproj.AssemblyReference.cache
+C:\Users\rahim\source\repos\Loader\obj\Release\Loader.csproj.SuggestedBindingRedirects.cache
+C:\Users\rahim\source\repos\Loader\obj\Release\Loader.Form1.resources
+C:\Users\rahim\source\repos\Loader\obj\Release\Loader.Properties.Resources.resources
+C:\Users\rahim\source\repos\Loader\obj\Release\Loader.csproj.GenerateResource.cache
+C:\Users\rahim\source\repos\Loader\obj\Release\Loader.csproj.CoreCompileInputs.cache
+C:\Users\rahim\source\repos\Loader\obj\Release\Loader.exe
+C:\Users\rahim\source\repos\Loader\obj\Release\Loader.pdb
